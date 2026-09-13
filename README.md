@@ -1,6 +1,6 @@
 Hello 👋
 
-I'm Rae'd Ismail ,have a Bachelor's Degree in artificial intelligence and data science , With Strong Skills in machine learning and Deep Learning , Data Preprocessing ,Data Exploration and Visualization ,Data Analysis ,SQL ,and Programming with Python .
+I'm Ra'ed Ismail ,have a Bachelor's Degree in artificial intelligence and data science , With Strong Skills in machine learning and Deep Learning , Data Preprocessing ,Data Exploration and Visualization ,Data Analysis ,SQL ,and Programming with Python .
 
 
 <p align="left">
